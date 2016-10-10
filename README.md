@@ -1,6 +1,6 @@
-# BeingTechie
+# Being Techie
 
-#Welcome to BeingTechie!!!
+#Welcome to Being Techie!!!
 
 This repo contains all the projects created for BeingTechie YouTube channel. This channel is primarily contains .NET videos.
 
