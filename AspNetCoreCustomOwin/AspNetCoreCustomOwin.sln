@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5E2D17E0-646C-4C1B-B7DE-CFDAFA3B2398}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D752CE0-1695-4008-A3FC-1F60A2837179}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetCoreCustomOwin", "src\AspNetCoreCustomOwin\AspNetCoreCustomOwin.xproj", "{CA1D894C-33DB-4C89-B68B-4983F157FF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1D894C-33DB-4C89-B68B-4983F157FF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1D894C-33DB-4C89-B68B-4983F157FF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1D894C-33DB-4C89-B68B-4983F157FF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1D894C-33DB-4C89-B68B-4983F157FF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA1D894C-33DB-4C89-B68B-4983F157FF64} = {5E2D17E0-646C-4C1B-B7DE-CFDAFA3B2398}
+	EndGlobalSection
+EndGlobal
